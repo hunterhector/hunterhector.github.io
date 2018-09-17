@@ -1,7 +1,7 @@
 ---
 title: "Coreference Resolution"
 collection: teaching
-type: "Graduate course"
+type: "Guest Lecture"
 permalink: /teaching/2015-fall-coref
 venue: "Carnegie Mellon University, Language Technologies Institute"
 date: 2015-11-04
