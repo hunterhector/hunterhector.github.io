@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhengzhong Liu / Hector"
 title_separator          : "-"
 name                     : &name "Zhengzhong Liu"
-description              : &description "I am a researcher and PhD student in Natural Language Processing"
+description              : &description "I am a researcher and PhD student in Natural Language Processing and Computational Linguistics"
 url                      : https://hunterhector.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hunterhector/hunterhector.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Zhengzhong Liu"
   avatar           : "profile.png"
-  bio              : "Hector is a researcher in Natural Language Processing and Computational Linguistic"
+  bio              : "Hector is a researcher in Natural Language Processing and Computational Linguistics"
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=S9E-hMwAAAAJ&hl=en"
