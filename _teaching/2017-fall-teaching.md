@@ -1,7 +1,7 @@
 ---
 title: "Neural Networks for NLP"
 collection: teaching
-type: "Class"
+type: "Graduate Course"
 permalink: /teaching/2017-fall-teaching
 venue: "Carnegie Mellon University, Language Technologies Institute"
 date: 2017-08-31

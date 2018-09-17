@@ -1,7 +1,7 @@
 ---
 title: "Computational Semantics for NLP"
 collection: teaching
-type: "Class"
+type: "Graduate Course"
 permalink: /teaching/2017-spring-teaching
 venue: "Carnegie Mellon University, Language Technologies Institute"
 date: 2017-01-18

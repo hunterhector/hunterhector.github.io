@@ -3,7 +3,7 @@ title: "Coreference Resolution"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-fall-coref
-venue: "Carnegie Mellon University"
+venue: "Carnegie Mellon University, Language Technologies Institute"
 date: 2015-11-04
 location: "Pittsburgh, PA"
 ---
