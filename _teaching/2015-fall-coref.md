@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-fall-coref
 venue: "Carnegie Mellon University"
-date: Oct-2015
+date: 2015-11-04
 location: "Pittsburgh, PA"
 ---
 

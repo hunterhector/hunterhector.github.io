@@ -4,7 +4,7 @@ collection: teaching
 type: "Class"
 permalink: /teaching/2017-spring-teaching
 venue: "Carnegie Mellon University, Language Technologies Institute"
-date: Jan-2017 to May-2017
+date: 2017-01-18
 location: "Pittsburgh, PA"
 ---
 

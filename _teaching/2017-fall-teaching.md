@@ -4,7 +4,7 @@ collection: teaching
 type: "Class"
 permalink: /teaching/2017-fall-teaching
 venue: "Carnegie Mellon University, Language Technologies Institute"
-date: Aug-2017 to Dec-2017
+date: 2017-08-31
 location: "Pittsburgh, PA"
 ---
 
@@ -13,6 +13,8 @@ I was a teaching assistant for the class "Neural Networks for NLP" (CMU 11-747).
 Lecture
 ======
 I gave a lecture on "Coreference and Discourse Parsing". After introducing the basic modeling variants for coreference, I introduce the recent improvements (and the reasons) on entity coreference using Neural Networks. I then covered some NN approaches on discourse parsing. I have also mentioned some work that lies between coreference and discourse parsing, such as script modeling. 
+
+[Lecture Video](https://www.youtube.com/watch?v=cWDt6GTOpLE&feature=youtu.be)
 
 Cousre Description
 ======
