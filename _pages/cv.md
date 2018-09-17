@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computing, The Hong Kong Polytechnic University, 2012
+* M.S. in Language Technologies, Carnegie Mellon University, 2014
+* Ph.D in Language and Information Technologies, Carnegie Mellon University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2012 till now: Research Assistant
+  * Carnegie Mellon University
+  * Supervisor: Professor Eduard Hovy and Professor Teruko Mitamura
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Research Intern at Google Research
+  * Google Inc.
+  * Work on Verb Phrase Ellipsis to infer ellided predicate information in light verbs like "Yes, I do!" 
+  * Supervisor: Edgar González Pellicer and Daniel Gillick
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2012: Student Developer at Google Summer of Code
+  * DBpedia.org
+  * Worked on the DBpedia Spotlight, developed and delivered a collective entity linking system which considers the coherence of all entities in a document context.
+  * https://github.com/hunterhector/dbpedia-spotlight
 
 Publications
 ======
@@ -54,6 +49,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
