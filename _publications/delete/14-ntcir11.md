@@ -1,0 +1,11 @@
+---
+title: "CMU Multiple-choice Question Answering System at NTCIR-11 QA-Lab"
+collection: publications
+permalink: /publication/9/4/14-ntcir11
+excerpt: 'We describe CMU&apos;s UIMA-based modular automatic question answering(QA) system.'
+date: 9/4/14
+venue: 'NTCIR-11'
+---
+We describe CMU&apos;s UIMA-based modular automatic question answering(QA) system.
+
+[Paper](https://hunterhector.github.io/files/papers/Wang,_Gee,_Nyberg_-_2014_-_Proceedings_of_the_11th_NTCIR_Conference.pdf) \| [Project Page](#)

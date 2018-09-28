@@ -1,0 +1,11 @@
+---
+title: "CMU-LTI at KBP 2015 Event Track"
+collection: publications
+permalink: /publication/11/1/15-tac2015nugget
+excerpt: 'This paper describes the LTI team&apos;s participation at TAC 2015'
+date: 11/1/15
+venue: 'TAC 2015'
+---
+This paper describes the LTI team&apos;s participation at TAC 2015
+
+[Paper](https://hunterhector.github.io/files/papers/Liu_et_al._-_2015_-_CMU-LTI_at_KBP_2015_Event_Track.pdf) \| [Project Page](#)
