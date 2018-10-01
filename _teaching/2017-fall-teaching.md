@@ -16,7 +16,7 @@ I gave a lecture on "Coreference and Discourse Parsing". After introducing the b
 
 [Lecture Video](https://www.youtube.com/watch?v=cWDt6GTOpLE&feature=youtu.be)
 
-Cousre Description
+Course Description
 ======
 Neural networks provide powerful new tools for modeling language, and have been used both to improve the state-of-the-art in a number of tasks and to tackle new problems that were not easy in the past. This class will start with a brief overview of neural networks, then spend the majority of the class demonstrating how to apply neural networks to natural language problems. Each section will introduce a particular problem or phenomenon in natural language, describe why it is difficult to model, and demonstrate several models that were designed to tackle this problem. In the process of doing so, the class will cover different techniques that are useful in creating neural network models, including handling variably sized and structured sentences, efficient handling of large data, semi-supervised and unsupervised learning, structured prediction, and multilingual modeling.
 

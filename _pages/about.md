@@ -12,7 +12,7 @@ I am Zhengzhong Liu (People often call my nickname Hector), a PhD student on Nat
 
 My research focuses on applying machine learning techniques to linguistic problems. During my PhD, I focus on modeling event semantics, which includes event detection, event coreference, script modeling and salience modeling.
 
-I sometimes touch other language related topics, including entity modeling, such as disambiguation, linking, coreference and salience;  information retrieval. I also work on deep learning topics and tools. 
+I sometimes touch other language related topics, such as entity modeling (disambiguation, linking, coreference and salience),  information retrieval. I also work on deep learning topics and tools. 
 
 Thesis
 ---
