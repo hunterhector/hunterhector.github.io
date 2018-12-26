@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Zhengzhong Liu (People often refer me with my nickname Hector). I am a PhD researcher on Natural Language Processing and Computational Linguistics at [Carnegie Mellon University](https://www.lti.cs.cmu.edu/), working with Professor [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/) and Professor [Eduard Hovy](https://www.cs.cmu.edu/~hovy/). Prior to my PhD, I obtained my master at CMU with Teruko and Ed. And prior to that, I obtained my bachelor degree in [the Department of Computing](https://www.comp.polyu.edu.hk/) from [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with Professor [Qin Lu](https://www4.comp.polyu.edu.hk/~csluqin/). 
 
-I am interested in understanding linguistic problems and applying machine learning techniques to solve them. During my PhD, I focus on modeling event semantics, which includes event detection, event coreference, script modeling and salience modeling.
+I believe that understanding linguistic problems would allow one to apply proper computational methods solve them. During my PhD, I focus on modeling event semantics, which includes event detection, event coreference, script modeling and salience modeling.
 
 Besides from my thesis work, I am broadly intersted in other NLP problems, such as entity modeling (disambiguation, linking, coreference and salience), information extraction, information retrieval. I also work on deep learning topics and tools. 
 
