@@ -1,5 +1,5 @@
 ---
-title: "Script Induction in Probablistic Way"
+title: "Script Induction in Probabilistic Way"
 collection: teaching
 type: "Seminar Talk"
 permalink: /teaching/2014-spring-schema
