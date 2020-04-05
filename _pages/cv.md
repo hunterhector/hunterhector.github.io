@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-A PDF version is also available <u><a href="https://hunterhector.github.io/files/cv_Liu_Zhengzhong.pdf">here</a>.</u>
+A PDF version is also available <u><a href="https://hunterhector.github.io/files/resume_en.pdf">here</a>.</u>
 
 {% include base_path %}
 
