@@ -16,7 +16,7 @@ I am broadly interested in solving problems by combining machine learning techni
 
 I am also a fan of development open-source and high quality toolkits about NLP, I have recently worked on the following projects:
   1. [Texar](https://asyml.io/): A modularized approach for Neural Network Based text Generation and more. Texar is nominated for the best demo paper in ACL 2019.
-  1. [Forte](https://github.com/asyml/forte): A flexible and highly composable for board range text applications.
+  1. [Forte](https://github.com/asyml/forte): A flexible and highly composable NLP toolkit for a wide range of text applications (including IR, NLU, NLG). Checkout out our [AAAI 2020](https://asyml.github.io/aaai_tutorial/) and [GTC 2020](https://developer.nvidia.com/gtc/2020/video/s21560-vid) Tutorials for the design philosophy.
   1. [Stave](https://github.com/asyml/stave): A general purpose, modern annotation toolkit (under development).
 
 Thesis
