@@ -19,7 +19,10 @@ Education
 
 Work experience
 ======
-* 2012 till now: Research Assistant
+* 2019 till now: Research Scientist
+  * Petuum Inc.
+
+* 2012 - 2019: Research Assistant
   * Carnegie Mellon University
   * Supervisor: Professor Eduard Hovy and Professor Teruko Mitamura
 
