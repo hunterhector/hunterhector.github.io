@@ -10,9 +10,14 @@ redirect_from:
 
 My name is Zhengzhong Liu (People often refer me with my nickname Hector). I am a PhD researcher on Natural Language Processing and Computational Linguistics at [Carnegie Mellon University](https://www.lti.cs.cmu.edu/), working with Professor [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/) and Professor [Eduard Hovy](https://www.cs.cmu.edu/~hovy/). Prior to my PhD, I obtained my master at CMU with Teruko and Ed. And prior to that, I obtained my bachelor degree in [the Department of Computing](https://www.comp.polyu.edu.hk/) from [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with Professor [Qin Lu](https://www4.comp.polyu.edu.hk/~csluqin/). 
 
-I believe that understanding linguistic problems would allow one to apply proper computational methods solve them. During my PhD, I focus on modeling event semantics, which includes event detection, event coreference, script modeling and salience modeling.
+I believe that understanding linguistic problems would allow one to apply proper computational methods solve them. During my PhD, I focus on modeling event semantics, which includes event detection ([TAC'17](https://hunterhector.github.io/publication/2015-11-01-tac2015overview), [TAC'15](https://hunterhector.github.io/publication/2015-11-01-tac2015overview)), anaphora resolution ([NAACL'16](https://hunterhector.github.io/publication/2016-06-16-naacl_2016vpe), [NAACL'16](https://hunterhector.github.io/publication/2016-06-12-naacl2016coref), [LREC'14](https://hunterhector.github.io/publication/2014-05-26-lrec2014coref])), script modeling ([COLING'18](https://hunterhector.github.io/publication/2018-01-13-coling2018sequencing)) and salience modeling ([EMNLP'18](https://hunterhector.github.io/publication/2018-09-03-emnlp2018salience)).
 
-Besides from my thesis work, I am broadly intersted in other NLP problems, such as entity modeling (disambiguation, linking, coreference and salience), information extraction, information retrieval. I also work on deep learning topics and tools. 
+I am broadly intersted in other NLP problems, such as entity modeling (disambiguation, linking), information extraction, information retrieval, logic rules.
+
+I've involved in developing many NLP toolkits, includes:
+  1. [Texar]
+  1. [Forte]
+  1. [Stave]
 
 Thesis
 ---
