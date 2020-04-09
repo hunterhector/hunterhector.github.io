@@ -14,7 +14,7 @@ I believe that understanding linguistic problems would allow one to apply proper
 
 I am broadly interested in solving problems by combining machine learning techniques with linguistic insights and human knowledge. In the early days I worked on semantic web problems such as entity disambiguation([WWW'12](https://hunterhector.github.io/publication/2012-04-16-www2012), [entity linking](https://github.com/hunterhector/dbpedia-spotlight)) or [slot filling](https://hunterhector.github.io/publication/2011-11-14-tac2011). Particularly, I love incorporating knowledge into NLP problems, such as in information retrieval ([SIGIR'18](https://hunterhector.github.io/publication/2018-03-03-sigir2018rank_salience),[CIKM'17](https://hunterhector.github.io/publication/2017-11-07-cikm2017joint)), or core NLP tasks ([ACL'16](https://hunterhector.github.io/publication/2016-08-07-acl_2016logic)).
 
-I am also a fan of development open-source and high quality toolkits about NLP, I have recently worked on the following projects:
+I am also a fan of developing open-source and high quality toolkits about NLP, I have recently worked on the following projects:
   1. [Texar](https://asyml.io/): A modularized approach for Neural Network Based text Generation and more. Texar is nominated for the best demo paper in ACL 2019.
   1. [Forte](https://github.com/asyml/forte): A flexible and highly composable NLP toolkit for a wide range of text applications (including IR, NLU, NLG). Checkout out our [AAAI 2020](https://asyml.github.io/aaai_tutorial/) and [GTC 2020](https://developer.nvidia.com/gtc/2020/video/s21560-vid) Tutorials for the design philosophy.
   1. [Stave](https://github.com/asyml/stave): A general purpose, modern annotation toolkit (under development).

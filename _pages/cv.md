@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Computing, The Hong Kong Polytechnic University, 2012
 * M.S. in Language Technologies, Carnegie Mellon University, 2014
-* Ph.D in Language and Information Technologies, Carnegie Mellon University, 2019 (expected)
+* Ph.D in Language and Information Technologies, Carnegie Mellon University, 2020 (expected)
 
 Work experience
 ======
