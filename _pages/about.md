@@ -12,12 +12,12 @@ My name is Zhengzhong Liu (People often refer me with my nickname Hector). I am 
 
 I believe that understanding linguistic problems would allow one to apply proper computational methods solve them. During my PhD, I focus on modeling event semantics, which includes event detection ([TAC'17](https://hunterhector.github.io/publication/2015-11-01-tac2015overview), [TAC'15](https://hunterhector.github.io/publication/2015-11-01-tac2015overview)), anaphora resolution ([NAACL'16](https://hunterhector.github.io/publication/2016-06-16-naacl_2016vpe), [NAACL'16](https://hunterhector.github.io/publication/2016-06-12-naacl2016coref), [LREC'14](https://hunterhector.github.io/publication/2014-05-26-lrec2014coref])), script modeling ([COLING'18](https://hunterhector.github.io/publication/2018-01-13-coling2018sequencing)) and salience modeling ([EMNLP'18](https://hunterhector.github.io/publication/2018-09-03-emnlp2018salience)).
 
-I am broadly intersted in other NLP problems, such as entity modeling (disambiguation, linking), information extraction, information retrieval, logic rules.
+I am broadly interested in solving NLP problems by combining machine learning techniques and linguistic insights, such as entity modeling (disambiguation([WWW'12](https://hunterhector.github.io/publication/2012-04-16-www2012)), 【linking】(https://github.com/hunterhector/dbpedia-spotlight)), information extraction, information retrieval ([SIGIR'18](https://hunterhector.github.io/publication/2018-03-03-sigir2018rank_salience),[CIKM'17](https://hunterhector.github.io/publication/2017-11-07-cikm2017joint)), knowledge enhanced NLP ([ACL'16](https://hunterhector.github.io/publication/2016-08-07-acl_2016logic)).
 
 I've involved in developing many NLP toolkits, includes:
-  1. [Texar]
-  1. [Forte]
-  1. [Stave]
+  1. [Texar](https://asyml.io/): A modularized approach for Neural Network Based text Generation and more. Texar is nominated for the best demo paper in ACL 2019.
+  1. [Forte](https://github.com/asyml/forte): A flexible and highly composable for board range text applications.
+  1. [Stave](https://github.com/asyml/stave): A general purpose, modern annotation toolkit (under development).
 
 Thesis
 ---
