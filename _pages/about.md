@@ -19,6 +19,8 @@ I am also a fan of developing open-source and high quality toolkits about NLP, I
   1. [Forte](https://github.com/asyml/forte): A flexible and highly composable NLP toolkit for a wide range of text applications (including IR, NLU, NLG). Checkout out our [AAAI 2020](https://asyml.github.io/aaai_tutorial/) and [GTC 2020](https://developer.nvidia.com/gtc/2020/video/s21560-vid) Tutorials for the design philosophy.
   1. [Stave](https://github.com/asyml/stave): A general purpose, modern annotation toolkit (under development).
 
+I served as Program Committee (reviewer) for ACL  2019 (outstanding reviewer), 2020; ACL SRW 2020; NAACL 2019 (Kudos Reviewer); EMNLP 2018, 2020; NLPCC 2017, 2018, 2019, 2020; CoNLL 2019.
+
 Thesis
 ---
 My [thesis proposal](https://hunterhector.github.io/files/thesis/proposal_draft.pdf) summarizes some of my previous work. We are proposing to deliver two solutions to two problems we observed in event research:
