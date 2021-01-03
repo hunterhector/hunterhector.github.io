@@ -19,7 +19,7 @@ I am also a fan of developing open-source and high quality toolkits about NLP, I
   1. [Forte](https://github.com/asyml/forte): A flexible and highly composable NLP toolkit for a wide range of text applications (including IR, NLU, NLG). Checkout out our [AAAI 2020](https://asyml.github.io/aaai_tutorial/) and [GTC 2020](https://developer.nvidia.com/gtc/2020/video/s21560-vid) Tutorials for the design philosophy.
   1. [Stave](https://github.com/asyml/stave): A general purpose, modern annotation toolkit (under development).
 
-Recently, we have combined these projects together with other [OSS projects](https://github.com/petuum) and launched the CASL (Composible, Auotmatic, and Scalable ML) open source effort, led by Professor [Eric Xing](http://www.cs.cmu.edu/~epxing/), to provide a unified umbrella for a Production and Industrial AI Platform. 
+Recently, we have combined these projects together with other [OSS projects](https://github.com/petuum) and launched the [CASL](https://casl-project.github.io/) (Composible, Auotmatic, and Scalable ML) open source effort, led by Professor [Eric Xing](http://www.cs.cmu.edu/~epxing/), to provide a unified umbrella for a Production and Industrial AI Platform. 
 
 I served as Program Committee (reviewer) for ACL  2019 (outstanding reviewer), 2020; ACL SRW 2020; NAACL 2019 (Kudos Reviewer); EMNLP 2018, 2020; NLPCC 2017, 2018, 2019, 2020; CoNLL 2019.
 
