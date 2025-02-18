@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting Zhengzhong Liu's page (People often refer me by my nickname Hector). I am currently the Head of Engineering at Petuum. 
+Thanks for visiting Zhengzhong Liu's page (People often refer me by my nickname Hector). I am currently the Director of Instituate of Foundation Model Silicon Valley Lab.
 
-Prior to Petuum, I am a PhD researcher in Natural Language Processing and Computational Linguistics at [Carnegie Mellon University](https://www.lti.cs.cmu.edu/), working with Professor [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/) and Professor [Eduard Hovy](https://www.cs.cmu.edu/~hovy/). I also work closely with Professor [Eric Xing](http://www.cs.cmu.edu/~epxing/) on the [CASL project](https://casl-project.github.io/). I obtained my bachelor degree in [the Department of Computing](https://www.comp.polyu.edu.hk/) from [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), where I start to learn about NLP by working with Professor [Qin Lu](https://scholar.google.com/citations?hl=en&user=Dk7iM5sAAAAJ).
+I did my PhD in Natural Language Processing and Computational Linguistics at [Carnegie Mellon University](https://www.lti.cs.cmu.edu/), working with Professor [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/) and Professor [Eduard Hovy](https://www.cs.cmu.edu/~hovy/). I also work closely with Professor [Eric Xing](http://www.cs.cmu.edu/~epxing/) on the [CASL project](https://casl-project.github.io/). I obtained my bachelor degree in [the Department of Computing](https://www.comp.polyu.edu.hk/) from [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), where I start to learn about NLP by working with Professor [Qin Lu](https://scholar.google.com/citations?hl=en&user=Dk7iM5sAAAAJ).
 
 News
 ---
